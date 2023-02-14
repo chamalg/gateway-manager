@@ -25,6 +25,9 @@ URL - http://localhost:6900/api/gateway
 Method - PUT (Update a gateway)
 URL - http://localhost:6900/api/gateway/:serialNumber
 
+Method - DELETE (Delete a gateway)
+URL - http://localhost:6900/api/gateway/:serialNumber
+
 
 ### Use following curl command to insert a sample record.
 

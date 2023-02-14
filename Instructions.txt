@@ -1,7 +1,4 @@
-# gateway-manager
-This is a REST service helps to store gateways and their associated devices
-
-## Getting Started
+Instructions
 
 1. CD into project folder and open a terminal window.
 2. Install all the packages using $npm install. 
@@ -28,7 +25,7 @@ URL - http://localhost:6900/api/gateway/:serialNumber
 
 7. Use following curl command to insert a sample record.
 
-```
+
 curl --location --request POST 'http://localhost:8000/api/gateway' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -51,4 +48,3 @@ curl --location --request POST 'http://localhost:8000/api/gateway' \
 	
 	]
 }'
-```

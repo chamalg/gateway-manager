@@ -26,7 +26,7 @@ Method - PUT (Update a gateway)
 URL - http://localhost:6900/api/gateway/:serialNumber
 
 
-7. Use following curl command to insert a sample record.
+### Use following curl command to insert a sample record.
 
 ```
 curl --location --request POST 'http://localhost:8000/api/gateway' \

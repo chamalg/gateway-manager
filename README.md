@@ -9,7 +9,7 @@ This is a REST service helps to store gateways and their associated devices
 4. Type $npm start to run the project 
 5. To run test cases type $npm test
 
-6. API details
+## API details
 
 Method - GET (List gateways)
 URL - http://localhost:6900/api/gateway
